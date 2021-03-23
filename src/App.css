@@ -2,26 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
 }
 
 .App-link {
@@ -35,4 +25,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1.appTitle {
+  font-family: monospace, alegreya;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.catContainer {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.catFeelings {
+  text-align: center;
+  padding: 100px 0;
+  margin: 30px;
+}
+
+.btn{
+  transition: transform 250ms;  
+} 
+
+.btn:hover{
+  /* transform: skew(-10deg); */
+  transform: scale(1.1);
+  background-color: light-gray;
+}
+
+.smallBlurb {
+  text-align: center;
+  padding: 10px;
+  padding-inline: 80px;
+  font-size: 16px;
+}
+
+.countdownToCans {
+  margin-top: 120px;
+  font-size: small;
 }

@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './components/App';
+import App from './components/App';
+import Title from './components/Title.js';
 import reportWebVitals from './reportWebVitals';
+import SmallBlurb from './components/SmallBlurb.js'
 
 ReactDOM.render(
   <React.StrictMode>
+    <Title />
     <App />
+    <SmallBlurb />
   </React.StrictMode>,
   document.getElementById('root')
 );
