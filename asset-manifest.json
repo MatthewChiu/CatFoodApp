@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/catFoodApp/static/css/main.931c2a4a.chunk.css",
+    "main.js": "/catFoodApp/static/js/main.43b2821b.chunk.js",
+    "main.js.map": "/catFoodApp/static/js/main.43b2821b.chunk.js.map",
+    "runtime-main.js": "/catFoodApp/static/js/runtime-main.274ea843.js",
+    "runtime-main.js.map": "/catFoodApp/static/js/runtime-main.274ea843.js.map",
+    "static/js/2.a9d00bec.chunk.js": "/catFoodApp/static/js/2.a9d00bec.chunk.js",
+    "static/js/2.a9d00bec.chunk.js.map": "/catFoodApp/static/js/2.a9d00bec.chunk.js.map",
+    "static/js/3.799cad6d.chunk.js": "/catFoodApp/static/js/3.799cad6d.chunk.js",
+    "static/js/3.799cad6d.chunk.js.map": "/catFoodApp/static/js/3.799cad6d.chunk.js.map",
+    "index.html": "/catFoodApp/index.html",
+    "static/css/main.931c2a4a.chunk.css.map": "/catFoodApp/static/css/main.931c2a4a.chunk.css.map",
+    "static/js/2.a9d00bec.chunk.js.LICENSE.txt": "/catFoodApp/static/js/2.a9d00bec.chunk.js.LICENSE.txt",
+    "static/media/oriFed.84923d8a.jpg": "/catFoodApp/static/media/oriFed.84923d8a.jpg",
+    "static/media/oriHungry.37225e14.jpg": "/catFoodApp/static/media/oriHungry.37225e14.jpg",
+    "static/media/sierraFed.717cff02.jpg": "/catFoodApp/static/media/sierraFed.717cff02.jpg",
+    "static/media/sierraHungry.7b3c4f37.jpg": "/catFoodApp/static/media/sierraHungry.7b3c4f37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274ea843.js",
+    "static/js/2.a9d00bec.chunk.js",
+    "static/css/main.931c2a4a.chunk.css",
+    "static/js/main.43b2821b.chunk.js"
+  ]
+}
